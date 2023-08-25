@@ -4,3 +4,9 @@
 
     npx create-react-app movieql-client
     npm install @apollo/client graphql react-router-dom@6
+
+### ApolloClient 생성 및 설정
+
+    hook 사용.
+
+### useApolloClient() hook - Movies client 접근
