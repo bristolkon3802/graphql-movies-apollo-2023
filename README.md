@@ -10,3 +10,5 @@
     hook 사용.
 
 ### useApolloClient() hook - Movies client 접근
+
+### useApolloClient를 useQuery() hook으로 변경
