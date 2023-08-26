@@ -74,7 +74,7 @@ export default function Movies() {
   return (
     <Container>
       <Header>
-        <Title></Title>
+        <Title>Apollo Movies</Title>
       </Header>
       {loading && <Loading>Loading...</Loading>}
       <MoviesGrid>
