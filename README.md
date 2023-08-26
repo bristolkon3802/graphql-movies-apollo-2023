@@ -12,3 +12,5 @@
 ### useApolloClient() hook - Movies client 접근
 
 ### useApolloClient를 useQuery() hook으로 변경
+
+### Movies의 screen과 Movie의 screen 연결
